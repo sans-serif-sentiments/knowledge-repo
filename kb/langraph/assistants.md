@@ -1,3 +1,15 @@
+---
+id: LG-ASSISTANTS
+title: Assistants
+category: concept
+tags: [langgraph]
+version: 1.0.0
+created_at: 2025-02-18
+updated_at: 2025-02-18
+author: LangGraph Team
+source_repo: sans-serif-sentiments/langraph
+confidence: medium
+---
 # Assistants
 
 **Assistants** allow you to manage configurations (like prompts, LLM selection, tools) separately from your graph's core logic, enabling rapid changes that don't alter the graph architecture. It is a way to create multiple specialized versions of the same graph architecture, each optimized for different use cases through context/configuration variations rather than structural changes.

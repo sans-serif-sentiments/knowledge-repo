@@ -1,8 +1,15 @@
 ---
-search:
-  boost: 2
+id: LG-AGENTIC-CONCEPTS
+title: Agent architectures
+category: concept
+tags: [langgraph]
+version: 1.0.0
+created_at: 2025-02-18
+updated_at: 2025-02-18
+author: LangGraph Team
+source_repo: sans-serif-sentiments/langraph
+confidence: medium
 ---
-
 # Agent architectures
 
 Many LLM applications implement a particular control flow of steps before and / or after LLM calls. As an example, [RAG](https://github.com/langchain-ai/rag-from-scratch) performs retrieval of documents relevant to a user question, and passes those documents to an LLM in order to ground the model's response in the provided document context. 

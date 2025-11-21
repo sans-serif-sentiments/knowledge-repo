@@ -1,12 +1,15 @@
 ---
-search:
-  boost: 2
-tags:
-  - agent
-hide:
-  - tags
+id: LG-MULTI-AGENTS
+title: Multi-agent
+category: concept
+tags: [langgraph]
+version: 1.0.0
+created_at: 2025-02-18
+updated_at: 2025-02-18
+author: LangGraph Team
+source_repo: sans-serif-sentiments/langraph
+confidence: medium
 ---
-
 # Multi-agent
 
 A single agent might struggle if it needs to specialize in multiple domains or manage many tools. To tackle this, you can break your agent into smaller, independent agents and compose them into a [multi-agent system](../concepts/multi_agent.md).

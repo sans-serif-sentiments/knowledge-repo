@@ -1,3 +1,15 @@
+---
+id: LG-MODELS
+title: Models
+category: concept
+tags: [langgraph]
+version: 1.0.0
+created_at: 2025-02-18
+updated_at: 2025-02-18
+author: LangGraph Team
+source_repo: sans-serif-sentiments/langraph
+confidence: medium
+---
 # Models
 
 LangGraph provides built-in support for [LLMs (language models)](https://python.langchain.com/docs/concepts/chat_models/) via the LangChain library. This makes it easy to integrate various LLMs into your agents and workflows.

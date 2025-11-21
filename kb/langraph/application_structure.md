@@ -1,8 +1,15 @@
 ---
-search:
-  boost: 2
+id: LG-APPLICATION-STRUCTURE
+title: Application Structure
+category: concept
+tags: [langgraph]
+version: 1.0.0
+created_at: 2025-02-18
+updated_at: 2025-02-18
+author: LangGraph Team
+source_repo: sans-serif-sentiments/langraph
+confidence: medium
 ---
-
 # Application Structure
 
 ## Overview

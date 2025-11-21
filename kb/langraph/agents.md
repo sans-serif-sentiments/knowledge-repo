@@ -1,12 +1,15 @@
 ---
-search:
-  boost: 2
-tags:
-  - agent
-hide:
-  - tags
+id: LG-AGENTS
+title: LangGraph quickstart
+category: concept
+tags: [langgraph]
+version: 1.0.0
+created_at: 2025-02-18
+updated_at: 2025-02-18
+author: LangGraph Team
+source_repo: sans-serif-sentiments/langraph
+confidence: medium
 ---
-
 # LangGraph quickstart
 
 This guide shows you how to set up and use LangGraph's **prebuilt**, **reusable** components, which are designed to help you construct agentic systems quickly and reliably.
