@@ -1,15 +1,22 @@
 ---
-id: LG-AGENT-DEVELOPMENT
-title: Agent development using prebuilt components
-category: concept
-tags: [langgraph]
-version: 1.0.0
-created_at: 2025-02-18
-updated_at: 2025-02-18
 author: LangGraph Team
-source_repo: sans-serif-sentiments/langraph
+category: concept
 confidence: medium
+contacts:
+- email: langgraph-docs@company.com
+  name: LangGraph Docs Steward
+  notes: Maintains LangGraph KB metadata and ingestion readiness.
+  priority: 1
+created_at: 2025-02-18
+id: LG-AGENT-DEVELOPMENT
+source_repo: sans-serif-sentiments/langraph
+tags:
+- langgraph
+title: Agent development using prebuilt components
+updated_at: 2025-02-18
+version: 1.0.0
 ---
+
 # Agent development using prebuilt components
 
 LangGraph provides both low-level primitives and high-level prebuilt components for building agent-based applications. This section focuses on the prebuilt, ready-to-use components designed to help you construct agentic systems quickly and reliably—without the need to implement orchestration, memory, or human feedback handling from scratch.

@@ -1,3 +1,14 @@
+---
+category: langraph
+contacts:
+- email: langgraph-docs@company.com
+  name: LangGraph Docs Steward
+  notes: Maintains LangGraph KB metadata and ingestion readiness.
+  priority: 1
+id: LG-SUBGRAPH
+title: Subgraph
+---
+
 # Use subgraphs
 
 This guide explains the mechanics of using [subgraphs](../concepts/subgraphs.md). A common application of subgraphs is to build [multi-agent](../concepts/multi_agent.md) systems.

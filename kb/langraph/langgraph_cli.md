@@ -1,6 +1,14 @@
 ---
+category: langraph
+contacts:
+- email: langgraph-docs@company.com
+  name: LangGraph Docs Steward
+  notes: Maintains LangGraph KB metadata and ingestion readiness.
+  priority: 1
+id: LG-LANGGRAPH-CLI
 search:
   boost: 2
+title: Langgraph Cli
 ---
 
 # LangGraph CLI

@@ -1,15 +1,22 @@
 ---
-id: LG-RUN-AGENTS
-title: Running agents
-category: concept
-tags: [langgraph]
-version: 1.0.0
-created_at: 2025-02-18
-updated_at: 2025-02-18
 author: LangGraph Team
-source_repo: sans-serif-sentiments/langraph
+category: concept
 confidence: medium
+contacts:
+- email: langgraph-docs@company.com
+  name: LangGraph Docs Steward
+  notes: Maintains LangGraph KB metadata and ingestion readiness.
+  priority: 1
+created_at: 2025-02-18
+id: LG-RUN-AGENTS
+source_repo: sans-serif-sentiments/langraph
+tags:
+- langgraph
+title: Running agents
+updated_at: 2025-02-18
+version: 1.0.0
 ---
+
 # Running agents
 
 Agents support both synchronous and asynchronous execution using either `.invoke()` / `await .ainvoke()` for full responses, or `.stream()` / `.astream()` for **incremental** [streaming](../how-tos/streaming.md) output. This section explains how to provide input, interpret output, enable streaming, and control execution limits.

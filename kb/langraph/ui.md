@@ -1,15 +1,22 @@
 ---
-id: LG-UI
-title: UI
-category: concept
-tags: [langgraph]
-version: 1.0.0
-created_at: 2025-02-18
-updated_at: 2025-02-18
 author: LangGraph Team
-source_repo: sans-serif-sentiments/langraph
+category: concept
 confidence: medium
+contacts:
+- email: langgraph-docs@company.com
+  name: LangGraph Docs Steward
+  notes: Maintains LangGraph KB metadata and ingestion readiness.
+  priority: 1
+created_at: 2025-02-18
+id: LG-UI
+source_repo: sans-serif-sentiments/langraph
+tags:
+- langgraph
+title: UI
+updated_at: 2025-02-18
+version: 1.0.0
 ---
+
 # UI
 
 You can use a prebuilt chat UI for interacting with any LangGraph agent through the [Agent Chat UI](https://github.com/langchain-ai/agent-chat-ui). Using the [deployed version](https://agentchat.vercel.app) is the quickest way to get started, and allows you to interact with both local and deployed graphs.

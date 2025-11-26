@@ -1,3 +1,14 @@
+---
+category: langraph
+contacts:
+- email: langgraph-docs@company.com
+  name: LangGraph Docs Steward
+  notes: Maintains LangGraph KB metadata and ingestion readiness.
+  priority: 1
+id: LG-TOOL-CALLING
+title: Tool Calling
+---
+
 # Call tools
 
 [Tools](../concepts/tools.md) encapsulate a callable function and its input schema. These can be passed to compatible chat models, allowing the model to decide whether to invoke a tool and determine the appropriate arguments.

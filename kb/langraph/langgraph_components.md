@@ -1,3 +1,14 @@
+---
+category: langraph
+contacts:
+- email: langgraph-docs@company.com
+  name: LangGraph Docs Steward
+  notes: Maintains LangGraph KB metadata and ingestion readiness.
+  priority: 1
+id: LG-LANGGRAPH-COMPONENTS
+title: Langgraph Components
+---
+
 ## Components
 
 The LangGraph Platform consists of components that work together to support the development, deployment, debugging, and monitoring of LangGraph applications:

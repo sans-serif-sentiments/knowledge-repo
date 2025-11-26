@@ -1,3 +1,14 @@
+---
+category: langraph
+contacts:
+- email: langgraph-docs@company.com
+  name: LangGraph Docs Steward
+  notes: Maintains LangGraph KB metadata and ingestion readiness.
+  priority: 1
+id: LG-LANGGRAPH-AGENTIC-RAG
+title: Langgraph Agentic Rag
+---
+
 # Agentic RAG
 
 In this tutorial we will build a [retrieval agent](https://python.langchain.com/docs/tutorials/qa_chat_history). Retrieval agents are useful when you want an LLM to make a decision about whether to retrieve context from a vectorstore or respond to the user directly.
@@ -527,4 +538,4 @@ Update from node generate_answer
 ================================== Ai Message ==================================
 
 Lilian Weng categorizes reward hacking into two types: environment or goal misspecification, and reward tampering. She considers reward hacking as a broad concept that includes both of these categories. Reward hacking occurs when an agent exploits flaws or ambiguities in the reward function to achieve high rewards without performing the intended behaviors.
-``` 
+```

@@ -1,3 +1,14 @@
+---
+category: langraph
+contacts:
+- email: langgraph-docs@company.com
+  name: LangGraph Docs Steward
+  notes: Maintains LangGraph KB metadata and ingestion readiness.
+  priority: 1
+id: LG-STREAMING
+title: Streaming
+---
+
 # Stream outputs
 
 You can [stream outputs](../concepts/streaming.md) from a LangGraph agent or workflow.

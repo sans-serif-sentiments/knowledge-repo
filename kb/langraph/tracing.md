@@ -1,3 +1,14 @@
+---
+category: langraph
+contacts:
+- email: langgraph-docs@company.com
+  name: LangGraph Docs Steward
+  notes: Maintains LangGraph KB metadata and ingestion readiness.
+  priority: 1
+id: LG-TRACING
+title: Tracing
+---
+
 # Tracing
 
 Traces are a series of steps that your application takes to go from input to output. Each of these individual steps is represented by a run. You can use [LangSmith](https://smith.langchain.com/) to visualize these execution steps. To use it, [enable tracing for your application](../how-tos/enable-tracing.md). This enables you to do the following:
@@ -14,4 +25,3 @@ To get started, sign up for a free account at [LangSmith](https://smith.langchai
 - [LangSmith Observability quickstart](https://docs.smith.langchain.com/observability)
 - [Trace with LangGraph](https://docs.smith.langchain.com/observability/how_to_guides/trace_with_langgraph)
 - [Tracing conceptual guide](https://docs.smith.langchain.com/observability/concepts#traces)
-

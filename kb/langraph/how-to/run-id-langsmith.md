@@ -1,3 +1,14 @@
+---
+category: langraph
+contacts:
+- email: langgraph-docs@company.com
+  name: LangGraph Docs Steward
+  notes: Maintains LangGraph KB metadata and ingestion readiness.
+  priority: 1
+id: LG-RUN-ID-LANGSMITH
+title: Run Id Langsmith
+---
+
 # How to pass custom run ID or set tags and metadata for graph runs in LangSmith
 
 !!! tip "Prerequisites"
@@ -152,4 +163,4 @@ Now that we've ran our graph, let's head over to LangSmith and view our trace. F
 
 In addition, you will be able to filter traces after the fact using the tags or metadata provided. For example,
 
-![LangSmith Filter View](assets/410e0089-2ab8-46bb-a61a-827187fd46b3.png) 
+![LangSmith Filter View](assets/410e0089-2ab8-46bb-a61a-827187fd46b3.png)

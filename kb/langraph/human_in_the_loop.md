@@ -1,15 +1,22 @@
 ---
-id: LG-HUMAN-IN-THE-LOOP
-title: Human-in-the-loop
-category: concept
-tags: [langgraph]
-version: 1.0.0
-created_at: 2025-02-18
-updated_at: 2025-02-18
 author: LangGraph Team
-source_repo: sans-serif-sentiments/langraph
+category: concept
 confidence: medium
+contacts:
+- email: langgraph-docs@company.com
+  name: LangGraph Docs Steward
+  notes: Maintains LangGraph KB metadata and ingestion readiness.
+  priority: 1
+created_at: 2025-02-18
+id: LG-HUMAN-IN-THE-LOOP
+source_repo: sans-serif-sentiments/langraph
+tags:
+- langgraph
+title: Human-in-the-loop
+updated_at: 2025-02-18
+version: 1.0.0
 ---
+
 # Human-in-the-loop
 
 To review, edit, and approve tool calls in an agent or workflow, [use LangGraph's human-in-the-loop features](../how-tos/human_in_the_loop/add-human-in-the-loop.md) to enable human intervention at any point in a workflow. This is especially useful in large language model (LLM)-driven applications where model output may require validation, correction, or additional context.

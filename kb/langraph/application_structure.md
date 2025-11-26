@@ -1,15 +1,22 @@
 ---
-id: LG-APPLICATION-STRUCTURE
-title: Application Structure
-category: concept
-tags: [langgraph]
-version: 1.0.0
-created_at: 2025-02-18
-updated_at: 2025-02-18
 author: LangGraph Team
-source_repo: sans-serif-sentiments/langraph
+category: concept
 confidence: medium
+contacts:
+- email: langgraph-docs@company.com
+  name: LangGraph Docs Steward
+  notes: Maintains LangGraph KB metadata and ingestion readiness.
+  priority: 1
+created_at: 2025-02-18
+id: LG-APPLICATION-STRUCTURE
+source_repo: sans-serif-sentiments/langraph
+tags:
+- langgraph
+title: Application Structure
+updated_at: 2025-02-18
+version: 1.0.0
 ---
+
 # Application Structure
 
 ## Overview
