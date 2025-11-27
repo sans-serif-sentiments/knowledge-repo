@@ -70,6 +70,8 @@ last_reviewed: 2025-11-26
 4) **Retrieve:** We search three ways—BM25 (exact words), vectors (similar meaning), and the graph (relations). We fuse and rerank results, then drop anything below the confidence threshold.
 5) **Answer:** The LLM writes a concise reply using only the selected chunks. It shows sources. If external/world is allowed, it uses the general model and labels the answer as “external context.”
 6) **Guardrails:** If no good chunks are found, the assistant lists related KB IDs or says it cannot answer. Sensitive or off-topic questions get a polite deferral.
+7) **RAG Definition (our system):** Retrieval-Augmented Generation means we first retrieve relevant chunks from our KB (hybrid search + graph + rerank) and then generate the answer strictly from those chunks—no guessing and no web search.
+8) **Visuals:** See RAG/Ingest flow and AI change/rollback diagrams in `assets/rag_ingest_flow.md` and `assets/ai_change_rollback_flow.md`.
 
 ## Why we chose this setup
 - **Local-first:** Keeps data private; no default calls to outside services.
