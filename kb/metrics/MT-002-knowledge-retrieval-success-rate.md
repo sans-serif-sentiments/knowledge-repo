@@ -2,7 +2,10 @@
 id: MT-002
 title: Knowledge Retrieval Success Rate
 category: metric
-tags: [metrics, retrieval, rag]
+tags:
+- metrics
+- retrieval
+- rag
 version: 0.1.0
 created_at: 2025-02-18
 updated_at: 2025-02-18
@@ -10,11 +13,16 @@ author: Ops Analytics
 source_repo: sans-serif-sentiments/knowledge-repo
 confidence: medium
 related_units:
-  - KG-002
-  - PR-002
+- KG-002
+- PR-002
 systems:
-  - SQLite
-  - Looker
+- SQLite
+- Looker
+contacts:
+- name: AI Platform
+  email: ai-platform@company.com
+last_reviewed: '2025-11-27'
+
 ---
 
 # Summary

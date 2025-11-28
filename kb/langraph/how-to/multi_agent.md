@@ -7,6 +7,8 @@ contacts:
   priority: 1
 id: LG-MULTI-AGENT
 title: Multi Agent
+last_reviewed: '2025-11-27'
+
 ---
 
 # Build multi-agent systems

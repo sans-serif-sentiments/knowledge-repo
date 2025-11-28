@@ -9,6 +9,8 @@ id: LG-DEPLOYMENT-OPTIONS
 search:
   boost: 2
 title: Deployment Options
+last_reviewed: '2025-11-27'
+
 ---
 
 # Deployment Options

@@ -9,6 +9,8 @@ id: LG-DURABLE-EXECUTION
 search:
   boost: 2
 title: Durable Execution
+last_reviewed: '2025-11-27'
+
 ---
 
 # Durable Execution

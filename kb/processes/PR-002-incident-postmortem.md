@@ -2,7 +2,10 @@
 id: PR-002
 title: Incident Postmortem Lifecycle
 category: process
-tags: [incidents, learning, postmortem]
+tags:
+- incidents
+- learning
+- postmortem
 version: 1.0.0
 created_at: 2025-01-28
 updated_at: 2025-02-18
@@ -10,24 +13,26 @@ author: Reliability PMO
 source_repo: sans-serif-sentiments/knowledge-repo
 confidence: medium
 contacts:
-  - name: Jordan Kim
-    title: Reliability Lead
-    email: reliability@company.com
-    slack: "@jordan.kim"
-    notes: Facilitates SEV1+ reviews and owns template updates.
-    priority: 1
-  - name: Meena Rao
-    title: Legal Incident Contact
-    email: legal@company.com
-    slack: "@meena.rao"
-    notes: Confirms language before sharing externally.
-    priority: 2
+- name: Jordan Kim
+  title: Reliability Lead
+  email: reliability@company.com
+  slack: '@jordan.kim'
+  notes: Facilitates SEV1+ reviews and owns template updates.
+  priority: 1
+- name: Meena Rao
+  title: Legal Incident Contact
+  email: legal@company.com
+  slack: '@meena.rao'
+  notes: Confirms language before sharing externally.
+  priority: 2
 related_units:
-  - SEC-002
-  - MT-002
+- SEC-002
+- MT-002
 systems:
-  - PagerDuty
-  - Notion
+- PagerDuty
+- Notion
+last_reviewed: '2025-11-27'
+
 ---
 
 # Summary

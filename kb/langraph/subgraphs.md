@@ -7,6 +7,8 @@ contacts:
   priority: 1
 id: LG-SUBGRAPHS
 title: Subgraphs
+last_reviewed: '2025-11-27'
+
 ---
 
 # Subgraphs

@@ -3,12 +3,20 @@ id: UD-001
 title: Unified User Data Model
 category: concept
 version: 1.0.0
-tags: [user-data, analytics, governance]
+tags:
+- user-data
+- analytics
+- governance
 created_at: 2024-01-05
 updated_at: 2024-01-05
 author: Knowledge Steward
 source_repo: sans-serif-sentiments/knowledge-repo
 confidence: high
+contacts:
+- name: Knowledge Steward
+  email: knowledge@company.com
+last_reviewed: '2025-11-27'
+
 ---
 
 # Summary

@@ -2,13 +2,21 @@
 id: IT-001
 title: Hardware Lifecycle & Asset Management
 category: policy
-tags: [it, hardware, asset-management]
+tags:
+- it
+- hardware
+- asset-management
 version: 1.0.5
 created_at: 2024-07-15
 updated_at: 2025-02-12
 author: Carlos Jimenez
 source_repo: sans-serif-sentiments/knowledge-repo
 confidence: medium
+contacts:
+- name: IT Helpdesk
+  email: it-help@company.com
+last_reviewed: '2025-11-27'
+
 ---
 
 # Summary

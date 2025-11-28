@@ -3,12 +3,20 @@ id: PR-001
 title: User Data Access Request Flow
 category: process
 version: 1.1.0
-tags: [user-data, compliance, support]
+tags:
+- user-data
+- compliance
+- support
 created_at: 2024-02-12
 updated_at: 2024-05-03
 author: Data Ops Team
 source_repo: sans-serif-sentiments/knowledge-repo
 confidence: medium
+contacts:
+- name: Operations
+  email: ops@company.com
+last_reviewed: '2025-11-27'
+
 ---
 
 # Summary

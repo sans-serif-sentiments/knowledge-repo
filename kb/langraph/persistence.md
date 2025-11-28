@@ -9,6 +9,8 @@ id: LG-PERSISTENCE
 search:
   boost: 2
 title: Persistence
+last_reviewed: '2025-11-27'
+
 ---
 
 # Persistence

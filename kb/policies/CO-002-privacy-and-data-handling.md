@@ -2,13 +2,21 @@
 id: CO-002
 title: Privacy & Data Handling Policy
 category: policy
-tags: [privacy, data-handling, compliance]
+tags:
+- privacy
+- data-handling
+- compliance
 version: 2.0.0
 created_at: 2025-01-04
 updated_at: 2025-01-15
 author: Priya D'Souza
 source_repo: sans-serif-sentiments/knowledge-repo
 confidence: high
+contacts:
+- name: Communications
+  email: comms@company.com
+last_reviewed: '2025-11-27'
+
 ---
 
 # Summary

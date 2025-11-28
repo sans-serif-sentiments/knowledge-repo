@@ -2,7 +2,10 @@
 id: IT-002
 title: Access Control Standards
 category: policy
-tags: [it, access, security]
+tags:
+- it
+- access
+- security
 version: 1.2.0
 created_at: 2024-08-12
 updated_at: 2025-02-18
@@ -10,25 +13,27 @@ author: IT Security
 source_repo: sans-serif-sentiments/knowledge-repo
 confidence: high
 contacts:
-  - name: Riya Menon
-    title: Identity & Access Manager
-    email: iam@company.com
-    slack: "@riya.menon"
-    phone: "+1-415-555-0301"
-    notes: Approves privileged access and quarterly reviews.
-    priority: 1
-  - name: Mateo Alvarez
-    title: SOC Lead
-    email: secops@company.com
-    slack: "@mateo.alvarez"
-    notes: Coordinates emergency revocations tied to SEC-002.
-    priority: 2
+- name: Riya Menon
+  title: Identity & Access Manager
+  email: iam@company.com
+  slack: '@riya.menon'
+  phone: +1-415-555-0301
+  notes: Approves privileged access and quarterly reviews.
+  priority: 1
+- name: Mateo Alvarez
+  title: SOC Lead
+  email: secops@company.com
+  slack: '@mateo.alvarez'
+  notes: Coordinates emergency revocations tied to SEC-002.
+  priority: 2
 related_units:
-  - SEC-002
-  - PR-001
+- SEC-002
+- PR-001
 systems:
-  - Okta
-  - Jamf
+- Okta
+- Jamf
+last_reviewed: '2025-11-27'
+
 ---
 
 # Summary

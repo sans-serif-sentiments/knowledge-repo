@@ -2,31 +2,36 @@
 id: PR-003
 title: Compliance Incident Bridge Workflow
 category: process
-tags: [compliance, incidents, escalation]
+tags:
+- compliance
+- incidents
+- escalation
 version: 1.0.0
 created_at: 2025-02-20
 updated_at: 2025-02-20
 author: Risk & Compliance Office
 confidence: medium
 contacts:
-  - name: Anita Singh
-    title: Chief Compliance Officer
-    email: compliance@company.com
-    slack: "@anita-singh"
-    notes: Final approver for regulatory disclosures.
-    priority: 1
-  - name: DevOps On-Call
-    title: DevOps
-    email: devops@company.com
-    slack: "#incident-ai"
-    notes: Executes technical mitigations.
-    priority: 2
+- name: Anita Singh
+  title: Chief Compliance Officer
+  email: compliance@company.com
+  slack: '@anita-singh'
+  notes: Final approver for regulatory disclosures.
+  priority: 1
+- name: DevOps On-Call
+  title: DevOps
+  email: devops@company.com
+  slack: '#incident-ai'
+  notes: Executes technical mitigations.
+  priority: 2
 related_units:
-  - SEC-002
-  - IT-002
+- SEC-002
+- IT-002
 systems:
-  - PagerDuty
-  - Jira
+- PagerDuty
+- Jira
+last_reviewed: '2025-11-27'
+
 ---
 
 # Summary

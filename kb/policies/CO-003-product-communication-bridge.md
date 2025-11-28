@@ -2,31 +2,36 @@
 id: CO-003
 title: Product Communication Bridge Policy
 category: policy
-tags: [product, communications, launch-readiness]
+tags:
+- product
+- communications
+- launch-readiness
 version: 1.0.0
 created_at: 2025-02-20
 updated_at: 2025-02-20
 author: Product Communications Council
 confidence: medium
 contacts:
-  - name: Priya Kapoor
-    title: Director, Product Marketing
-    email: priyakapoor@company.com
-    slack: "@priya.pmm"
-    notes: Approves messaging matrices and controls launch readiness gates.
-    priority: 1
-  - name: Simon Park
-    title: Principal PM
-    email: simon.park@company.com
-    slack: "@simonpm"
-    notes: Coordinates roadmap disclosures and press briefings.
-    priority: 2
+- name: Priya Kapoor
+  title: Director, Product Marketing
+  email: priyakapoor@company.com
+  slack: '@priya.pmm'
+  notes: Approves messaging matrices and controls launch readiness gates.
+  priority: 1
+- name: Simon Park
+  title: Principal PM
+  email: simon.park@company.com
+  slack: '@simonpm'
+  notes: Coordinates roadmap disclosures and press briefings.
+  priority: 2
 related_units:
-  - PT-001
-  - EN-FAQ-002
+- PT-001
+- EN-FAQ-002
 systems:
-  - Launch Tracker
-  - Salesforce
+- Launch Tracker
+- Salesforce
+last_reviewed: '2025-11-27'
+
 ---
 
 # Summary

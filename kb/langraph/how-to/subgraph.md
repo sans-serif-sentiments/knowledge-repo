@@ -7,6 +7,8 @@ contacts:
   priority: 1
 id: LG-SUBGRAPH
 title: Subgraph
+last_reviewed: '2025-11-27'
+
 ---
 
 # Use subgraphs

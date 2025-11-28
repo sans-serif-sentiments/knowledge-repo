@@ -2,7 +2,10 @@
 id: PT-002
 title: Customer Trust Brief Pattern
 category: pattern
-tags: [trust, communications, incidents]
+tags:
+- trust
+- communications
+- incidents
 version: 0.1.0
 created_at: 2025-02-10
 updated_at: 2025-02-18
@@ -10,11 +13,16 @@ author: Customer Experience PMM
 source_repo: sans-serif-sentiments/knowledge-repo
 confidence: medium
 related_units:
-  - SEC-002
-  - PR-002
+- SEC-002
+- PR-002
 systems:
-  - Google Slides
-  - Zendesk
+- Google Slides
+- Zendesk
+contacts:
+- name: Product Marketing
+  email: pm@company.com
+last_reviewed: '2025-11-27'
+
 ---
 
 # Summary

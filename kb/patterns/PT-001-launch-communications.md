@@ -3,12 +3,20 @@ id: PT-001
 title: Launch Communications Pattern
 category: pattern
 version: 0.2.0
-tags: [communications, launches, enablement]
+tags:
+- communications
+- launches
+- enablement
 created_at: 2024-05-01
 updated_at: 2024-05-20
 author: Launch PMM
 source_repo: sans-serif-sentiments/knowledge-repo
 confidence: medium
+contacts:
+- name: Product Marketing
+  email: pm@company.com
+last_reviewed: '2025-11-27'
+
 ---
 
 # Summary

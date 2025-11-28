@@ -2,32 +2,37 @@
 id: PR-LG-001
 title: LangGraph Deployment Runbook
 category: process
-tags: [langgraph, deployment, ops]
+tags:
+- langgraph
+- deployment
+- ops
 version: 1.0.0
 created_at: 2025-02-20
 updated_at: 2025-02-20
 author: Agent Platform Team
 confidence: medium
 contacts:
-  - name: Sahana Kulkarni
-    title: LangGraph Platform PM
-    email: langgraph-pm@company.com
-    slack: "@sahana"
-    notes: Coordinates release readiness reviews.
-    priority: 1
-  - name: Dev Ops On-call
-    title: DevOps
-    email: devops@company.com
-    slack: "#incident-ai"
-    notes: Handles build failures and rollbacks.
-    priority: 2
+- name: Sahana Kulkarni
+  title: LangGraph Platform PM
+  email: langgraph-pm@company.com
+  slack: '@sahana'
+  notes: Coordinates release readiness reviews.
+  priority: 1
+- name: Dev Ops On-call
+  title: DevOps
+  email: devops@company.com
+  slack: '#incident-ai'
+  notes: Handles build failures and rollbacks.
+  priority: 2
 systems:
-  - LangGraph Platform
-  - LangGraph Studio
-  - GitHub Actions
+- LangGraph Platform
+- LangGraph Studio
+- GitHub Actions
 related_units:
-  - CO-LG-001
-  - LG-APPLICATION-STRUCTURE
+- CO-LG-001
+- LG-APPLICATION-STRUCTURE
+last_reviewed: '2025-11-27'
+
 ---
 
 # Summary

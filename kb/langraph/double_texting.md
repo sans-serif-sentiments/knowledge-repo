@@ -9,6 +9,8 @@ id: LG-DOUBLE-TEXTING
 search:
   boost: 2
 title: Double Texting
+last_reviewed: '2025-11-27'
+
 ---
 
 # Double Texting

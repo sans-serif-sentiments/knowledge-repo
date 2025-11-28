@@ -9,6 +9,8 @@ id: LG-FUNCTIONAL-API
 search:
   boost: 2
 title: Functional Api
+last_reviewed: '2025-11-27'
+
 ---
 
 # Functional API concepts

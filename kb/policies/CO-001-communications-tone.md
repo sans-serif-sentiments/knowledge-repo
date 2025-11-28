@@ -3,12 +3,20 @@ id: CO-001
 title: Communications Tone and Messaging Guardrails
 category: policy
 version: 1.0.0
-tags: [communications, brand, enablement]
+tags:
+- communications
+- brand
+- enablement
 created_at: 2024-03-10
 updated_at: 2024-03-10
 author: Comms Lead
 source_repo: sans-serif-sentiments/knowledge-repo
 confidence: high
+contacts:
+- name: Communications
+  email: comms@company.com
+last_reviewed: '2025-11-27'
+
 ---
 
 # Summary

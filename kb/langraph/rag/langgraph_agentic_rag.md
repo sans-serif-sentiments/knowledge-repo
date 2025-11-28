@@ -7,6 +7,8 @@ contacts:
   priority: 1
 id: LG-LANGGRAPH-AGENTIC-RAG
 title: Langgraph Agentic Rag
+last_reviewed: '2025-11-27'
+
 ---
 
 # Agentic RAG

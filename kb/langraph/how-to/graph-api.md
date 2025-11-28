@@ -7,6 +7,8 @@ contacts:
   priority: 1
 id: LG-GRAPH-API
 title: Graph Api
+last_reviewed: '2025-11-27'
+
 ---
 
 # How to use the graph API

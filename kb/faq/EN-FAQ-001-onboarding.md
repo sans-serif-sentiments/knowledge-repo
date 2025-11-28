@@ -3,12 +3,19 @@ id: EN-FAQ-001
 title: Enablement Onboarding FAQ
 category: faq
 version: 0.1.0
-tags: [enablement, onboarding]
+tags:
+- enablement
+- onboarding
 created_at: 2024-04-01
 updated_at: 2024-04-15
 author: Enablement Ops
 source_repo: sans-serif-sentiments/knowledge-repo
 confidence: medium
+contacts:
+- name: Enablement
+  email: enablement@company.com
+last_reviewed: '2025-11-27'
+
 ---
 
 # Summary

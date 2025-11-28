@@ -2,7 +2,10 @@
 id: KG-002
 title: Context Packaging Framework
 category: concept
-tags: [rag, context, retrieval]
+tags:
+- rag
+- context
+- retrieval
 version: 1.0.0
 created_at: 2025-02-18
 updated_at: 2025-02-18
@@ -10,11 +13,16 @@ author: RAG Architecture Guild
 source_repo: sans-serif-sentiments/knowledge-repo
 confidence: medium
 related_units:
-  - MT-002
-  - PT-002
+- MT-002
+- PT-002
 systems:
-  - Chroma
-  - Ollama
+- Chroma
+- Ollama
+contacts:
+- name: Knowledge Steward
+  email: knowledge@company.com
+last_reviewed: '2025-11-27'
+
 ---
 
 # Summary

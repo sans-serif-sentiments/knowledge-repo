@@ -9,6 +9,8 @@ id: LG-SDK
 search:
   boost: 2
 title: Sdk
+last_reviewed: '2025-11-27'
+
 ---
 
 # LangGraph SDK

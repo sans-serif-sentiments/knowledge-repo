@@ -2,31 +2,36 @@
 id: CO-LG-001
 title: LangGraph Usage & Governance
 category: policy
-tags: [langgraph, governance, ai]
+tags:
+- langgraph
+- governance
+- ai
 version: 1.0.0
 created_at: 2025-02-20
 updated_at: 2025-02-20
 author: AI Solutions Council
 confidence: medium
 contacts:
-  - name: Meera Balan
-    title: Director, AI Solutions Council
-    email: ai-governance@company.com
-    slack: "@meera.balan"
-    notes: Approves new LangGraph-powered assistants.
-    priority: 1
-  - name: Lucas Brandt
-    title: Principal Agent Engineer
-    email: lucas.brandt@company.com
-    slack: "@lucas"
-    notes: Technical owner of our LangGraph templates.
-    priority: 2
+- name: Meera Balan
+  title: Director, AI Solutions Council
+  email: ai-governance@company.com
+  slack: '@meera.balan'
+  notes: Approves new LangGraph-powered assistants.
+  priority: 1
+- name: Lucas Brandt
+  title: Principal Agent Engineer
+  email: lucas.brandt@company.com
+  slack: '@lucas'
+  notes: Technical owner of our LangGraph templates.
+  priority: 2
 systems:
-  - LangGraph Platform
-  - GitHub Actions
+- LangGraph Platform
+- GitHub Actions
 related_units:
-  - PR-LG-001
-  - LG-AGENT-DEVELOPMENT
+- PR-LG-001
+- LG-AGENT-DEVELOPMENT
+last_reviewed: '2025-11-27'
+
 ---
 
 # Summary

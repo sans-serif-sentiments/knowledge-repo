@@ -2,24 +2,29 @@
 id: EN-FAQ-003
 title: Salesforce AI Assist FAQ
 category: faq
-tags: [sales, ai, langgraph]
+tags:
+- sales
+- ai
+- langgraph
 version: 1.0.0
 created_at: 2025-02-20
 updated_at: 2025-02-20
 author: Revenue Enablement
 confidence: medium
 contacts:
-  - name: RevOps Support
-    email: revops@company.com
-    slack: "#help-revops"
-    notes: First line of support for Salesforce automations.
-    priority: 1
+- name: RevOps Support
+  email: revops@company.com
+  slack: '#help-revops'
+  notes: First line of support for Salesforce automations.
+  priority: 1
 related_units:
-  - PT-003
-  - CO-003
+- PT-003
+- CO-003
 systems:
-  - Salesforce
-  - LangGraph Assist
+- Salesforce
+- LangGraph Assist
+last_reviewed: '2025-11-27'
+
 ---
 
 # Summary

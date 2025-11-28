@@ -2,7 +2,10 @@
 id: HR-002
 title: Leave & Time-Off Policy
 category: policy
-tags: [hr, leave, time-off]
+tags:
+- hr
+- leave
+- time-off
 version: 1.0.0
 created_at: 2025-02-15
 updated_at: 2025-02-15
@@ -10,26 +13,28 @@ author: Maya Chen
 source_repo: sans-serif-sentiments/knowledge-repo
 confidence: high
 contacts:
-  - name: Lina Ooi
-    title: HR Leave Specialist
-    email: hr-leave@company.com
-    slack: "@lina.ooi"
-    phone: "+1-415-555-0102"
-    notes: Primary approver for PTO over 10 consecutive days.
-    priority: 1
-  - name: Adrian Patel
-    title: Payroll Contact
-    email: payroll@company.com
-    slack: "@adrian.patel"
-    phone: "+1-415-555-0143"
-    notes: Handles payroll/ledger updates after approvals.
-    priority: 2
+- name: Lina Ooi
+  title: HR Leave Specialist
+  email: hr-leave@company.com
+  slack: '@lina.ooi'
+  phone: +1-415-555-0102
+  notes: Primary approver for PTO over 10 consecutive days.
+  priority: 1
+- name: Adrian Patel
+  title: Payroll Contact
+  email: payroll@company.com
+  slack: '@adrian.patel'
+  phone: +1-415-555-0143
+  notes: Handles payroll/ledger updates after approvals.
+  priority: 2
 related_units:
-  - HR-001
-  - FIN-001
+- HR-001
+- FIN-001
 systems:
-  - Workday
-  - Workday Payroll
+- Workday
+- Workday Payroll
+last_reviewed: '2025-11-27'
+
 ---
 
 # Summary

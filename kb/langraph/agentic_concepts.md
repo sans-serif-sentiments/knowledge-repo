@@ -15,6 +15,8 @@ tags:
 title: Agent architectures
 updated_at: 2025-02-18
 version: 1.0.0
+last_reviewed: '2025-11-27'
+
 ---
 
 # Agent architectures

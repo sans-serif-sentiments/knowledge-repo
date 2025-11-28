@@ -2,25 +2,31 @@
 id: PT-003
 title: Sales AI Assist Playbook
 category: pattern
-tags: [sales, ai, langgraph, playbook]
+tags:
+- sales
+- ai
+- langgraph
+- playbook
 version: 0.1.0
 created_at: 2025-02-20
 updated_at: 2025-02-20
 author: Revenue Enablement
 confidence: medium
 contacts:
-  - name: Lila Moreno
-    title: VP Revenue Enablement
-    email: lila.moreno@company.com
-    slack: "@lila-moreno"
-    notes: Owns playbook updates + training.
-    priority: 1
+- name: Lila Moreno
+  title: VP Revenue Enablement
+  email: lila.moreno@company.com
+  slack: '@lila-moreno'
+  notes: Owns playbook updates + training.
+  priority: 1
 systems:
-  - Salesforce
-  - Gong
+- Salesforce
+- Gong
 related_units:
-  - CO-003
-  - EN-FAQ-002
+- CO-003
+- EN-FAQ-002
+last_reviewed: '2025-11-27'
+
 ---
 
 # Summary

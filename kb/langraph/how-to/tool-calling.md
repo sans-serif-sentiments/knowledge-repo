@@ -7,6 +7,8 @@ contacts:
   priority: 1
 id: LG-TOOL-CALLING
 title: Tool Calling
+last_reviewed: '2025-11-27'
+
 ---
 
 # Call tools

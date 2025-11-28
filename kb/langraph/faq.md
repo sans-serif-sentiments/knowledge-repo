@@ -9,6 +9,8 @@ id: LG-FAQ
 search:
   boost: 2
 title: Faq
+last_reviewed: '2025-11-27'
+
 ---
 
 # FAQ

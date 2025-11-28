@@ -3,12 +3,20 @@ id: MT-001
 title: Knowledge Ingestion Latency
 category: metric
 version: 0.1.0
-tags: [metrics, ingestion, ops]
+tags:
+- metrics
+- ingestion
+- ops
 created_at: 2024-05-05
 updated_at: 2024-05-05
 author: Ops Analytics
 source_repo: sans-serif-sentiments/knowledge-repo
 confidence: medium
+contacts:
+- name: AI Platform
+  email: ai-platform@company.com
+last_reviewed: '2025-11-27'
+
 ---
 
 # Summary

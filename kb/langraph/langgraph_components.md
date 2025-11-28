@@ -7,6 +7,8 @@ contacts:
   priority: 1
 id: LG-LANGGRAPH-COMPONENTS
 title: Langgraph Components
+last_reviewed: '2025-11-27'
+
 ---
 
 ## Components

@@ -2,7 +2,10 @@
 id: EN-FAQ-002
 title: Remote Access & VPN FAQ
 category: faq
-tags: [it, remote-work, access]
+tags:
+- it
+- remote-work
+- access
 version: 1.0.0
 created_at: 2025-02-18
 updated_at: 2025-02-18
@@ -10,18 +13,20 @@ author: IT Support
 source_repo: sans-serif-sentiments/knowledge-repo
 confidence: medium
 contacts:
-  - name: IT Service Desk
-    title: Tier-1 Support
-    email: it-help@company.com
-    slack: "#help-it"
-    notes: First stop for VPN troubleshooting.
-    priority: 1
+- name: IT Service Desk
+  title: Tier-1 Support
+  email: it-help@company.com
+  slack: '#help-it'
+  notes: First stop for VPN troubleshooting.
+  priority: 1
 related_units:
-  - IT-002
-  - HR-002
+- IT-002
+- HR-002
 systems:
-  - Okta
-  - GlobalProtect
+- Okta
+- GlobalProtect
+last_reviewed: '2025-11-27'
+
 ---
 
 # Summary

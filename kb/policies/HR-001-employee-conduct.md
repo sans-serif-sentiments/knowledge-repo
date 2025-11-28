@@ -2,13 +2,21 @@
 id: HR-001
 title: Employee Conduct & Workplace Expectations
 category: policy
-tags: [hr, conduct, workplace]
+tags:
+- hr
+- conduct
+- workplace
 version: 3.1.0
 created_at: 2024-10-12
 updated_at: 2025-02-01
 author: Maya Chen
 source_repo: sans-serif-sentiments/knowledge-repo
 confidence: high
+contacts:
+- name: HR Operations
+  email: hr-ops@company.com
+last_reviewed: '2025-11-27'
+
 ---
 
 # Summary

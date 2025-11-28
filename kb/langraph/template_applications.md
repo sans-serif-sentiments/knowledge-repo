@@ -9,6 +9,8 @@ id: LG-TEMPLATE-APPLICATIONS
 search:
   boost: 2
 title: Template Applications
+last_reviewed: '2025-11-27'
+
 ---
 
 # Template Applications

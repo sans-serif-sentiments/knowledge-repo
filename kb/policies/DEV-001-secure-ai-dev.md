@@ -2,31 +2,36 @@
 id: DEV-001
 title: Secure AI Development Policy
 category: policy
-tags: [dev, security, ai]
+tags:
+- dev
+- security
+- ai
 version: 1.0.0
 created_at: 2025-02-20
 updated_at: 2025-02-20
 author: Platform Security
 confidence: medium
 contacts:
-  - name: Mateo Alvarez
-    title: SOC Lead
-    email: secops@company.com
-    slack: "@mateo.alvarez"
-    notes: Handles AI code review escalations.
-    priority: 1
-  - name: Jia Patel
-    title: Lead ML Engineer
-    email: jia.patel@company.com
-    slack: "@jia-patel"
-    notes: Maintains LangGraph templates and threat models.
-    priority: 2
+- name: Mateo Alvarez
+  title: SOC Lead
+  email: secops@company.com
+  slack: '@mateo.alvarez'
+  notes: Handles AI code review escalations.
+  priority: 1
+- name: Jia Patel
+  title: Lead ML Engineer
+  email: jia.patel@company.com
+  slack: '@jia-patel'
+  notes: Maintains LangGraph templates and threat models.
+  priority: 2
 related_units:
-  - IT-002
-  - CO-LG-001
+- IT-002
+- CO-LG-001
 systems:
-  - GitHub
-  - LangGraph Platform
+- GitHub
+- LangGraph Platform
+last_reviewed: '2025-11-27'
+
 ---
 
 # Summary
